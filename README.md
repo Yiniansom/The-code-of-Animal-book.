@@ -1,2 +1,3 @@
 # The-code-of-Animal-book.
-coding when read book
+Coding when read book.
+This code is about some Machine Learning and other algorithm.
